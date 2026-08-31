@@ -1,6 +1,9 @@
 <h1 align="center">Frites</h1>
 <h3 align="center"><i>pr. any / all</i></h3>
-
+<br>
+<p>i programmer think<br>
+uh website with info at <a src="https://zelafrites.github.io/friesrewok/">this place</a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=61DAFB" />
