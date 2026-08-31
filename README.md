@@ -1,4 +1,4 @@
-## Frites
+<h1 align="center">Frites</h1>
 *any / all*
 <hr>
 
