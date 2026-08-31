@@ -21,10 +21,10 @@ uh website with info at <a href="https://zelafrites.github.io/friesrewok/">this 
 <h3 align="center">Socials:</h3>
 
 <p align="center">
-  <a href="https://x.com/zola_frites">
+  <a href="https://x.com/zola_frites" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@fry-potato7">
+  <a href="https://www.youtube.com/@fry-potato7" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
