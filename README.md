@@ -24,6 +24,7 @@ uh website with info at <a href="https://zelafrites.github.io/friesrewok/">this 
   <a href="https://x.com/zola_frites">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  
   <a href="https://www.youtube.com/@fry-potato7">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
