@@ -1,13 +1,20 @@
 <h1 align="center">Frites</h1>
-<p align="center"><i>any / all</i></p>
+<p align="center"><i>pr. any / all</i></p>
 <hr>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://x.com/zola_frites">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zola_frites)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=zelafrites&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zelafrites&color=blue" />
+</p>
