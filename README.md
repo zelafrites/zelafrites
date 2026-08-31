@@ -5,4 +5,4 @@
 
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=zelafrites&color=blue)
