@@ -3,6 +3,6 @@
 ![Lua](https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zola_frites)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zelafrites&color=blue)
