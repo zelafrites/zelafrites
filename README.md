@@ -1,5 +1,5 @@
 <h1 align="center">Frites</h1>
-*any / all*
+<p align="center">*any / all*</p>
 <hr>
 
 
