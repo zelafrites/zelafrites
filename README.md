@@ -1,4 +1,4 @@
-<h1 align="center">Frites</h1>
+<h1 align="center">Frites / David</h1>
 <h3 align="center"><i>pr. any / all</i></h3>
 <br>
 <p align="center">i programmer think<br>
