@@ -1,7 +1,7 @@
 <h1 align="center">Frites</h1>
 <h3 align="center"><i>pr. any / all</i></h3>
 <br>
-<p align="center>i programmer think<br>
+<p align="center">i programmer think<br>
 uh website with info at <a href="https://zelafrites.github.io/friesrewok/">this place</a>
 </p>
 <br>
